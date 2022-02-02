@@ -1,3 +1,12 @@
+# Before We Start
+
+## Goals of this Project
+
+- Understand how Sanity.io works as a backend service
+- Understand how Next.js handles Server Side Rendering
+- Learn how to use Content-as-API
+- Bring what I learned to my personal website and blog!
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
