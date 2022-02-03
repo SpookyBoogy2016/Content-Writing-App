@@ -2,17 +2,17 @@ export interface Post {
     _id: string;
     _createdAt: string;
     title: string;
-    author: {
+    author:{
         name: string;
         image: string;
     }
     description: string;
     mainImage:{
-        asset: {
+        asset:{
             url: string;
         }
     }
-    slug: {
+    slug:{
         current: string;
     }
     body: [object];
